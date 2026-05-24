@@ -1,0 +1,20 @@
+class Solution {
+	public boolean isProduct(int[] arr, long target) {
+		// code here
+		Arrays.sort(arr);
+		int start = 0, end = arr.length - 1;
+		
+		while (start != end) {
+			long ans = (long) arr[start] * arr[end];
+			if (ans == target) {
+				return true ;
+			}
+			if (ans < target) {
+				start++;
+			}
+			else {
+				end--;
+			}
+		} return false ;
+	}
+}
