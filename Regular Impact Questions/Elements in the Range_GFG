@@ -1,0 +1,17 @@
+// Elements in the Range
+
+class Solution {
+	public boolean checkElements(int start, int end, int[] arr) {
+		// code here
+		int count = 0;
+		int expectedCount = (end - start) + 1;
+		
+		for (int num : arr) {
+			if (num >= start && num <= end) {
+				count++;
+			}
+		}
+		
+		return count == expectedCount;
+	}
+}
