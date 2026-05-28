@@ -1,0 +1,36 @@
+// Lucky Numbers in a Matrix
+
+class Solution {
+    public List<Integer> luckyNumbers(int[][] matrix) {
+
+        List<Integer> result = new ArrayList<>();
+
+        int rows = matrix.length;
+        int cols = matrix[0].length;
+
+        int[] minR = new int[rows];
+        int[] maxC = new int[cols];
+
+        for (int row = 0; row < rows; row++) {
+            for (int col = 0; col < cols; col++) {
+                if (matrix[row][col] < minR[row] || minR[row] == 0) {
+                    minR[row] = matrix[row][col];
+                }
+
+                if (matrix[row][col] > maxC[col]) {
+                    maxC[col] = matrix[row][col];
+                }
+            }
+        }
+
+        for (int rowMin : minR) {
+            for (int colMax : maxC) {
+
+                if (rowMin == colMax) {
+                    result.add(rowMin);
+                }
+            }
+        }
+        return result;
+    }
+}

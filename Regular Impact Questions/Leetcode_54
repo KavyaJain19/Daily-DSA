@@ -1,0 +1,32 @@
+// Spriral Matrix
+class Solution {
+    public List<Integer> spiralOrder(int[][] mat) {
+        List<Integer> ans = new ArrayList<>();
+        int rb = 0;
+        int rl = mat.length-1;
+        int cb = 0; 
+        int cl = mat[0].length-1;
+
+        while(rb <= rl && cb<= cl){
+            for(int i =cb ; i<= cl ; i++){
+                ans.add(mat[rb][i]);
+            }
+            rb++;
+            for(int i = rb ; i<= rl ; i++){
+                ans.add(mat[i][cl]);
+            }
+            cl--;
+           if(rb <= rl){
+            for(int i = cl ; i >= cb ; i--){
+                ans.add(mat[rl][i]);
+            }
+            rl--;
+            }
+            if(cb <= cl){
+            for(int i = rl ; i >= rb ; i--){
+                ans.add(mat[i][cb]);
+            }
+            cb++;}
+        } return ans ;
+    }
+}
