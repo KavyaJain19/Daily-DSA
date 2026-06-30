@@ -32,3 +32,15 @@ A repository to document my DSA and coding journey from basics to advanced for p
 
 ## Progress
 Learning, practicing, and improving step by step every day.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+<!---LeetCode Topics End-->
