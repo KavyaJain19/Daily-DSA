@@ -38,9 +38,18 @@ Learning, practicing, and improving step by step every day.
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
