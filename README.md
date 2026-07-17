@@ -46,6 +46,7 @@ Learning, practicing, and improving step by step every day.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/KavyaJain19/Daily-DSA/tree/master/0006-zigzag-conversion) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
