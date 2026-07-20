@@ -38,6 +38,7 @@ Learning, practicing, and improving step by step every day.
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -57,6 +58,7 @@ Learning, practicing, and improving step by step every day.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
@@ -117,4 +119,8 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaJain19/Daily-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
