@@ -123,4 +123,13 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
