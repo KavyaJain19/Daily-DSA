@@ -127,9 +127,14 @@ Learning, practicing, and improving step by step every day.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
