@@ -129,6 +129,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -139,8 +140,17 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
