@@ -41,6 +41,7 @@ Learning, practicing, and improving step by step every day.
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -64,6 +65,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ Learning, practicing, and improving step by step every day.
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -99,6 +102,7 @@ Learning, practicing, and improving step by step every day.
 ## Two Pointers
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
