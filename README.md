@@ -105,6 +105,7 @@ Learning, practicing, and improving step by step every day.
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -179,6 +180,7 @@ Learning, practicing, and improving step by step every day.
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
