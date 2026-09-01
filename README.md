@@ -105,6 +105,7 @@ Learning, practicing, and improving step by step every day.
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -151,6 +152,7 @@ Learning, practicing, and improving step by step every day.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
@@ -177,9 +179,14 @@ Learning, practicing, and improving step by step every day.
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
