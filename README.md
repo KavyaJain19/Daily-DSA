@@ -120,6 +120,7 @@ Learning, practicing, and improving step by step every day.
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2685-count-the-number-of-complete-components](https://github.com/KavyaJain19/Daily-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/KavyaJain19/Daily-DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -173,4 +174,12 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
