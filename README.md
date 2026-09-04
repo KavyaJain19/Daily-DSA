@@ -46,6 +46,7 @@ Learning, practicing, and improving step by step every day.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
