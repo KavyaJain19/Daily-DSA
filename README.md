@@ -47,6 +47,7 @@ Learning, practicing, and improving step by step every day.
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
