@@ -46,6 +46,7 @@ Learning, practicing, and improving step by step every day.
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -65,6 +66,7 @@ Learning, practicing, and improving step by step every day.
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -85,6 +87,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaJain19/Daily-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
