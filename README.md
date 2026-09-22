@@ -46,6 +46,7 @@ Learning, practicing, and improving step by step every day.
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -101,6 +102,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -228,4 +231,8 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
