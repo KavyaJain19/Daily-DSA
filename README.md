@@ -50,6 +50,7 @@ Learning, practicing, and improving step by step every day.
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaJain19/Daily-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -89,6 +90,7 @@ Learning, practicing, and improving step by step every day.
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaJain19/Daily-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaJain19/Daily-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
