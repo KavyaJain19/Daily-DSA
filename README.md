@@ -57,6 +57,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KavyaJain19/Daily-DSA/tree/master/0006-zigzag-conversion) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -183,6 +184,7 @@ Learning, practicing, and improving step by step every day.
 | [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/KavyaJain19/Daily-DSA/tree/master/0901-online-stock-span) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -238,4 +240,8 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
