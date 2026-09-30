@@ -61,6 +61,7 @@ Learning, practicing, and improving step by step every day.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -166,6 +167,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
+| [3498-reverse-degree-of-a-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
