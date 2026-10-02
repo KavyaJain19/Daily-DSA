@@ -57,6 +57,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KavyaJain19/Daily-DSA/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -66,6 +67,7 @@ Learning, practicing, and improving step by step every day.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -245,5 +247,10 @@ Learning, practicing, and improving step by step every day.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
