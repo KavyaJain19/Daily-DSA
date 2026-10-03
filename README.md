@@ -58,6 +58,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KavyaJain19/Daily-DSA/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -68,6 +69,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -184,6 +186,7 @@ Learning, practicing, and improving step by step every day.
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/KavyaJain19/Daily-DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KavyaJain19/Daily-DSA/tree/master/0225-implement-stack-using-queues) |
@@ -248,6 +251,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
