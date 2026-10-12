@@ -97,6 +97,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyaJain19/Daily-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavyaJain19/Daily-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
