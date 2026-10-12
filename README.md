@@ -47,6 +47,7 @@ Learning, practicing, and improving step by step every day.
 | [1480-running-sum-of-1d-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavyaJain19/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KavyaJain19/Daily-DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KavyaJain19/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -65,6 +66,7 @@ Learning, practicing, and improving step by step every day.
 | [0032-longest-valid-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavyaJain19/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -180,6 +182,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/KavyaJain19/Daily-DSA/tree/master/1603-design-parking-system) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavyaJain19/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
