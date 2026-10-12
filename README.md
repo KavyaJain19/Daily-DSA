@@ -42,6 +42,7 @@ Learning, practicing, and improving step by step every day.
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KavyaJain19/Daily-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/KavyaJain19/Daily-DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -99,6 +100,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/KavyaJain19/Daily-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/KavyaJain19/Daily-DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
