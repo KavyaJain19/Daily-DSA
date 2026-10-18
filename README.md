@@ -101,6 +101,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KavyaJain19/Daily-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -121,6 +122,7 @@ Learning, practicing, and improving step by step every day.
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KavyaJain19/Daily-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -147,6 +149,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0086-partition-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/KavyaJain19/Daily-DSA/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -271,4 +274,8 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/0022-generate-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
