@@ -48,6 +48,7 @@ Learning, practicing, and improving step by step every day.
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavyaJain19/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KavyaJain19/Daily-DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KavyaJain19/Daily-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -94,6 +95,7 @@ Learning, practicing, and improving step by step every day.
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KavyaJain19/Daily-DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -129,6 +131,7 @@ Learning, practicing, and improving step by step every day.
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KavyaJain19/Daily-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
