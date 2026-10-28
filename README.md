@@ -40,6 +40,7 @@ Learning, practicing, and improving step by step every day.
 | ------- |
 | [0835-image-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/KavyaJain19/Daily-DSA/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/KavyaJain19/Daily-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KavyaJain19/Daily-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -93,6 +94,7 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/KavyaJain19/Daily-DSA/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/KavyaJain19/Daily-DSA/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KavyaJain19/Daily-DSA/tree/master/1288-remove-covered-intervals) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KavyaJain19/Daily-DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KavyaJain19/Daily-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -281,4 +283,12 @@ Learning, practicing, and improving step by step every day.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KavyaJain19/Daily-DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KavyaJain19/Daily-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
