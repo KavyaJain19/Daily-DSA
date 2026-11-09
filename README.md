@@ -69,6 +69,7 @@ Learning, practicing, and improving step by step every day.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KavyaJain19/Daily-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KavyaJain19/Daily-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavyaJain19/Daily-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/KavyaJain19/Daily-DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KavyaJain19/Daily-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/KavyaJain19/Daily-DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -108,6 +109,7 @@ Learning, practicing, and improving step by step every day.
 | [0202-happy-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/KavyaJain19/Daily-DSA/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KavyaJain19/Daily-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2409-count-days-spent-together](https://github.com/KavyaJain19/Daily-DSA/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavyaJain19/Daily-DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/KavyaJain19/Daily-DSA/tree/master/2652-sum-multiples) |
 | [3524-find-x-value-of-array-i](https://github.com/KavyaJain19/Daily-DSA/tree/master/3524-find-x-value-of-array-i) |
